@@ -1,4 +1,4 @@
-package day1;
+package day1.task1;
 
 import java.util.ArrayList;
 import java.util.Collections;
