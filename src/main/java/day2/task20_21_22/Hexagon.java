@@ -1,4 +1,4 @@
-package day2.task20_21;
+package day2.task20_21_22;
 
 public class Hexagon extends Shape {
     private double a;
